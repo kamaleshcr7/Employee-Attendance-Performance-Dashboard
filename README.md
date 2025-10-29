@@ -56,12 +56,5 @@ It was developed as part of my **Power BI learning journey at Besant Technologie
 
 ---
 
-### 🖼️ Screenshots
-| Dashboard Overview | Insights Section |
-|--------------------|------------------|
-| ![Dashboard](Screenshots/Dashboard_Full_View.png) | ![Insights](Screenshots/Insights_View.png) |
-
----
-
 ### 🔗 Connect with Me
 💼 [LinkedIn Profile](www.linkedin.com/in/kamalesh-v-a1504a33a)
