@@ -57,4 +57,4 @@ It was developed as part of my **Power BI learning journey at Besant Technologie
 ---
 
 ### 🔗 Connect with Me
-💼 [LinkedIn Profile](www.linkedin.com/in/kamalesh-v-a1504a33a)
+💼 [LinkedIn Profile](kamalesh-v-a1504a33a)
