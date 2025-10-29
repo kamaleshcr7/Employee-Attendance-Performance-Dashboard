@@ -54,7 +54,3 @@ It was developed as part of my **Power BI learning journey at Besant Technologie
 - Completed **Power BI certification from Besant Technologies**.  
 - Currently advancing towards **Machine Learning Projects (MLP)** to expand analytical capabilities and predictive modeling skills.
 
----
-
-### 🔗 Connect with Me
-💼 [LinkedIn Profile](kamalesh-v-a1504a33a)
